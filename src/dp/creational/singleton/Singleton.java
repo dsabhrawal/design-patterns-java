@@ -1,4 +1,4 @@
-package learn.dp.creational;
+package dp.creational.singleton;
 
 //Classical single implementation
 public class Singleton {
